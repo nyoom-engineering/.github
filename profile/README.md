@@ -15,7 +15,7 @@ Nyoom.nvim was an answer to abstracted and complex codebases that take away end-
 
 Nyoom can be anything you'd like. Enable all the modules for the vscode-alternative in you, remove some and turn it into the prose editor of your dreams, or disable everything and have a nice set of macros to start your configuration from scratch!
 
-Its all powered by the `oxocarbon` theme. If you would like to add functionality to Nyoom.nvim or port over the oxocarbon theme to other editors, contributions and feature requests are welcome!
+Its all powered by the [oxocarbon](https://github.com/nyoom-engineering/oxocarbon) theme. If you would like to add functionality to Nyoom.nvim or port over the oxocarbon theme to other editors, contributions and feature requests are welcome!
 
 ### Quick install
 
