@@ -27,3 +27,5 @@ bin/nyoom sync
 ```
 
 Read <https://github.com/nyoom-engineering/nyoom.nvim> for more
+
+Join our [discord server](https://discord.gg/M528tDKXRG)
