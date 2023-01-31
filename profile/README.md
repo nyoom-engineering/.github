@@ -5,11 +5,7 @@
   <img src="https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/cacochan.png" align="right" />
 </a>
 
-> It's a tale as old as time: a stubborn, shell-dwelling, and melodramatic
-> vimmer -- tormented by Vimscript and his boundless productivity -- makes a
-> formal request to the netherworld for a transfer. They agree. The terms? He
-> must lure more unsuspecting souls into a life of eternal bikeshedding. Now he
-> runs the place.
+Nyoom-engineering is a place where interactive structural editing, reproducable generational package management, and lispy configs come to meet!
 
 Nyoom.nvim was an answer to abstracted and complex codebases that take away end-user extensibility, try to be a one-size-fits-all config, and needlessly lazy load *everything*. It solves this problem by providing a set of well integrated modules similar to doom-emacs. Modules contain curated plugins and configurations that work together to provide a unified look and feel across all of Nyoom. The end goal of nyoom.nvim is to be used as a framework config for users to extend and add upon, leading to a more unique editing experience.
 
